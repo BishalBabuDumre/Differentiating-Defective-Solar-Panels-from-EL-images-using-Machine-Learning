@@ -1,0 +1,1 @@
+This script loads and preprocesses EL images, extracts features using PCA, trains a RandomForestClassifier, and makes predictions on new images. Ensure you have your data properly labeled and structured before running the code. You can tune the parameters of the model and preprocessing steps to improve accuracy.
